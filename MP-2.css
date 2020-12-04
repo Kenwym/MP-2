@@ -1,3 +1,17 @@
 body{
-    background-image: url(img/background.jpg) ;
+    background-color: #048B9A ;
+}
+.container{background-color: lightskyblue;
+    max-width: 800px;}
+
+h1{ color: red;
+text-align: center;
+}
+p{
+    color: royalblue;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#image{margin-left: 200px;
+
 }
