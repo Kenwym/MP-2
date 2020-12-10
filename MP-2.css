@@ -1,17 +1,19 @@
 body{
-    background-color: #048B9A ;
+    background-image: url(img/background.png) ;
 }
-.container{background-color: lightskyblue;
+.container{background-color: seashell;
     max-width: 800px;}
 
 h1{ color: red;
 text-align: center;
 }
 p{
-    color: royalblue;
+    color: black;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
 }
 #image{margin-left: 200px;
 
 }
+
+h2{color: blue;}
