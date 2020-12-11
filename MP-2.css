@@ -21,7 +21,13 @@ p1{
     margin-left: 20px;
 }
 #image{margin-left: 200px;
-
+}
+video{
+    max-width: 800px;
+    border-color: darkred;
+    margin-left: -30px;
+    padding; auto;
+    display; block;
 }
 
 h2{color: blue;}
